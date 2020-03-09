@@ -1,0 +1,5 @@
+export const HANDEL_CHANGE='HANDEL_CHANGE';
+export const SEARCH_RATING="SEARCH_RATING";
+export const DELETE_MOVIE="DELETE_MOVIE";
+export const EDIT_MOVIE="EDIT_MOVIE";
+export const ADD_MOVIE='ADD_MOVIE'
